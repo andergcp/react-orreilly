@@ -1,3 +1,11 @@
 .DS_Store
 .devcontainer/
 .vscode/
+
+# Folders with its own github repo
+.food-app/
+.goal_listing/goal-listing/
+.my-eract-app/
+.record_expenses/expenses_tracker/
+.users-app/
+.React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition/
